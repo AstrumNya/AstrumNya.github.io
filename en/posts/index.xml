@@ -1,20 +1,2 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
-  <channel>
-    <title>Posts on AstrumN&#39;s Notes</title>
-    <link>https://astrumneko.github.io/en/posts/</link>
-    <description>Recent content in Posts on AstrumN&#39;s Notes</description>
-    <generator>Hugo -- 0.157.0</generator>
-    <language>en</language>
-    <lastBuildDate>Tue, 21 May 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://astrumneko.github.io/en/posts/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Test Post</title>
-      <link>https://astrumneko.github.io/en/posts/hello_world/</link>
-      <pubDate>Tue, 21 May 2024 00:00:00 +0000</pubDate>
-      <guid>https://astrumneko.github.io/en/posts/hello_world/</guid>
-      <description>&lt;p&gt;This is the opening of the post. It is a short intro that tells readers what the post is about.&lt;/p&gt;
-&lt;p&gt;That is enough for the summary.&lt;/p&gt;</description>
-    </item>
-  </channel>
-</rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>Posts on AstrumN's Notes</title><link>https://astrumnya.github.io/en/posts/</link><description>Recent content in Posts on AstrumN's Notes</description><generator>Hugo -- 0.167.0</generator><language>en</language><lastBuildDate>Tue, 21 May 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://astrumnya.github.io/en/posts/index.xml" rel="self" type="application/rss+xml"/><item><title>Test Post</title><link>https://astrumnya.github.io/en/posts/hello_world/</link><pubDate>Tue, 21 May 2024 00:00:00 +0000</pubDate><guid>https://astrumnya.github.io/en/posts/hello_world/</guid><description>&lt;p&gt;This is the opening of the post. It is a short intro that tells readers what the post is about.&lt;/p&gt;
+&lt;p&gt;That is enough for the summary.&lt;/p&gt;</description></item></channel></rss>
