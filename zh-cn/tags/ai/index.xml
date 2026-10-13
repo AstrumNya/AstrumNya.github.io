@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>AI on AstrumN's Notes</title><link>https://astrumnya.github.io/zh-cn/tags/ai/</link><description>Recent content in AI on AstrumN's Notes</description><generator>Hugo -- 0.167.0</generator><language>zh-cn</language><lastBuildDate>Tue, 13 Oct 2026 21:28:03 +0800</lastBuildDate><atom:link href="https://astrumnya.github.io/zh-cn/tags/ai/index.xml" rel="self" type="application/rss+xml"/><item><title>首页插图的制作过程</title><link>https://astrumnya.github.io/zh-cn/posts/homepage-illustration-process/</link><pubDate>Tue, 13 Oct 2026 21:28:03 +0800</pubDate><guid>https://astrumnya.github.io/zh-cn/posts/homepage-illustration-process/</guid><description>&lt;p&gt;这个故事要从我制作此博客的首页插图说起
+&lt;figure&gt;
+&lt;img loading="lazy" src="homepage-start.webp"
+alt="博客首页与插画位置"/&gt;
+&lt;/figure&gt;
+我折腾博客的时候，发现博客右侧有点空荡荡的，这里的空间足够放入一个插图，于是使用Image 2.5 参考这只可爱的蕾米和我的头像制作出一个思考中的泉此方
+&lt;figure&gt;
+&lt;img loading="lazy" src="thinking-character.webp"
+alt="思考中的角色插画"/&gt;
+&lt;/figure&gt;
+看见成品时，突然灵感大爆发，一个场景立刻浮现在眼前：泉此方坐在首页“最新文章”上方的横线上，拿着笔记本思考，周围是显示器和服务器，一些书籍。于是立刻就马不停蹄地让Image 2.5开始抽卡，可试了几次后，最好的结果也就是这张图
+&lt;figure&gt;
+&lt;img loading="lazy" src="early-scene.webp"
+alt="早期场景插画" width="379"/&gt;
+&lt;/figure&gt;
+乍看上去似乎很像是那么回事的，不过细看的话，会发现书本落在了这个线的外部，显示器的支撑脚被线隐藏了，机柜像是背景贴图，我希望的元素都有，就是画面整体一点都不协调。
+看来我自己单靠提示词，也只能做到这个地步了。
+如何解决这个问题呢？据我多年欣赏动漫的经验，仔细观察后发现这个图的问题出在空间关系和透视上。我又联想到一些作画大触会使用blender作为绘画透视的参考，emmm，Image 2.5 似乎……也可以参考这样的模型图？于是让Astra大人搓了一个稍显草率的 3D 模型作为参考。&lt;/p&gt;</description></item></channel></rss>
